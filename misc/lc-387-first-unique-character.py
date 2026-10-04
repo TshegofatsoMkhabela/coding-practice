@@ -1,6 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        for idx, character in enumerate(s):
-            if character not in s[idx+1:] + s[:idx]:
-                return idx
+        characters = {}
+        for character in s:
+            if character not in characters:
+                characters[character] = 1
+            else:
+                characters[character] += 1
+        for character in characters:
+            if characters[character] == 1:
+                return s.index(character)
         return -1
