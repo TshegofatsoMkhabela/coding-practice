@@ -2,11 +2,9 @@ class Solution:
     def firstUniqChar(self, s: str) -> int:
         characters = {}
         for character in s:
-            if character not in characters:
-                characters[character] = 1
-            else:
-                characters[character] += 1
+            characters[character] = characters.get(character, 0) + 1
         for character in characters:
             if characters[character] == 1:
                 return s.index(character)
-        return -1
+        return -1                
+        
