@@ -1,0 +1,39 @@
+# ==========================================================================
+# Comprehension Question 1 - Bash: Scripts, Loops & Exit Codes (10 Points)
+# ==========================================================================
+
+# a) What every line of run_all.sh does:
+
+
+# b) Why "Permission denied", the fix command, and what it changes:
+
+
+# c) What ( ... ) and && do, and what breaks without the brackets:
+
+
+# d) What $? is, what 0 means, and how to stop at the first failing assessment:
+
+
+# ==========================================================================
+# Comprehension Question 2 - Git: Undoing Things Safely (10 Points)
+# ==========================================================================
+
+# a) Scenario 1 - Discard unstaged changes to loops.py:
+
+
+# a) Scenario 2 - Unstage answers.txt but keep the edits:
+
+
+# a) Scenario 3 - Fix the message of the last (unpushed) commit:
+
+
+# a) Scenario 4 - Undo a pushed commit without rewriting history:
+
+
+# a) Scenario 5 - Show the last 3 commits, one line each:
+
+
+# b) git revert vs git reset --hard, and why reset --hard is dangerous on shared branches:
+
+
+# c) What makes a good commit message (one good, one bad example):

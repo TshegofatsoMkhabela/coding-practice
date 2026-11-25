@@ -1,0 +1,45 @@
+# ==========================================================================
+# Comprehension Question 1 - Linux: Navigating & Organising Files (10 Points)
+# ==========================================================================
+
+# Task 1 - Show the full path of the current folder:
+
+
+# Task 2 - Create practice/halo in one command:
+
+
+# Task 3 - Move into practice/halo:
+
+
+# Task 4 - Create an empty file square.py:
+
+
+# Task 5 - Copy square.py to rectangle.py:
+
+
+# Task 6 - Rename rectangle.py to rect.py:
+
+
+# Task 7 - List contents with sizes and permissions, including hidden files:
+
+
+# Task 8 - Return to your home folder (shortest command):
+
+
+# Absolute vs relative paths (one example of each from this scenario):
+
+
+# What . and .. mean:
+
+
+# ==========================================================================
+# Comprehension Question 2 - Python Fundamentals: Nested Loops & break (10 Points)
+# ==========================================================================
+
+# a) Exact output line by line, the shape it produces, and where you have seen it:
+
+
+# b) Which loop break stops, and how the output shows it:
+
+
+# c) Output with continue instead of break, and why it changes:

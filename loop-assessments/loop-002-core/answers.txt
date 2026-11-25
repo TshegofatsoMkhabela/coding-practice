@@ -1,0 +1,24 @@
+# ==========================================================================
+# Comprehension Question 1 - Python Fundamentals: Building Grids Safely (10 Points)
+# ==========================================================================
+
+# a) Exact output and why it happens (use the words reference/alias and list):
+
+
+# b) A two-loop version and why it avoids the problem:
+
+
+# c) break vs return when searching for @ inside a function:
+
+
+# ==========================================================================
+# Comprehension Question 2 - Git: Branches & Merging (10 Points)
+# ==========================================================================
+
+# a) Command and explanation for each of the five tasks:
+
+
+# b) What a merge conflict is, how one could happen in loops.py, and how to resolve it:
+
+
+# c) Why working on a branch is safer than experimenting on main:
